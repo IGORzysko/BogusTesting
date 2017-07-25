@@ -32,6 +32,11 @@ namespace UnitTestsBogus
 
             #region Assert
 
+            foreach (var item in person)
+            {
+                Console.WriteLine($"{item.Name}, {item.Surname}, {item.Sex}, {item.Address}");
+            }
+
             Assert.IsNotNull(person);
 
             #endregion
