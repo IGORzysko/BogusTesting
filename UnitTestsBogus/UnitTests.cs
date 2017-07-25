@@ -37,7 +37,6 @@ namespace UnitTestsBogus
                 Console.WriteLine($"{item.Name}, {item.Surname}, {item.Sex}, {item.Address}");
             }
 
-
             Assert.IsNotNull(person);
 
             #endregion
