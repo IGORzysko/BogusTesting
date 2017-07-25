@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingWithBogusLibrary", "UnitTestingWithBogusLibrary\UnitTestingWithBogusLibrary.csproj", "{47CF6BDE-EFE8-4B4A-8598-0F1168F71391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestsBogus", "UnitTestsBogus\UnitTestsBogus.csproj", "{FA0B1B27-1691-4BCB-A703-C4B5B3B3204B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47CF6BDE-EFE8-4B4A-8598-0F1168F71391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CF6BDE-EFE8-4B4A-8598-0F1168F71391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CF6BDE-EFE8-4B4A-8598-0F1168F71391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CF6BDE-EFE8-4B4A-8598-0F1168F71391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0B1B27-1691-4BCB-A703-C4B5B3B3204B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0B1B27-1691-4BCB-A703-C4B5B3B3204B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0B1B27-1691-4BCB-A703-C4B5B3B3204B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0B1B27-1691-4BCB-A703-C4B5B3B3204B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
